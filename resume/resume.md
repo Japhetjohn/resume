@@ -26,7 +26,7 @@ Passionate DevOps Engineer with 4 years of experience in cloud computing, CI/CD 
 ## Experience
 
 ### **DevOps Engineer**  
-**** – Location  
+**nigeria** – Location  
 *2023 – Present*  
 - Designed and implemented CI/CD pipelines using Jenkins and GitHub Actions.
 - Deployed microservices to AWS using Docker and Kubernetes.
